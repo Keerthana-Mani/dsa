@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Keerthana-Mani/dsa/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Keerthana-Mani/dsa/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Keerthana-Mani/dsa/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/Keerthana-Mani/dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Keerthana-Mani/dsa/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Keerthana-Mani/dsa/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Keerthana-Mani/dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Keerthana-Mani/dsa/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
@@ -61,5 +63,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Keerthana-Mani/dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Keerthana-Mani/dsa/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
