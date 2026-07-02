@@ -32,12 +32,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Keerthana-Mani/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Keerthana-Mani/dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Keerthana-Mani/dsa/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Keerthana-Mani/dsa/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Keerthana-Mani/dsa/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Keerthana-Mani/dsa/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Keerthana-Mani/dsa/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/Keerthana-Mani/dsa/tree/master/0389-find-the-difference) |
 ## Binary Search
 |  |
 | ------- |
@@ -50,12 +52,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Keerthana-Mani/dsa/tree/master/0136-single-number) |
+| [0389-find-the-difference](https://github.com/Keerthana-Mani/dsa/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Keerthana-Mani/dsa/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Keerthana-Mani/dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Keerthana-Mani/dsa/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Keerthana-Mani/dsa/tree/master/0389-find-the-difference) |
 ## Queue
 |  |
 | ------- |
