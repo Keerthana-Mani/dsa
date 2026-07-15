@@ -13,8 +13,8 @@ class Solution {
             }
             else{
                 if (map.containsValue(s1[i])) {
-    return false;
-}
+               return false;
+            }
                 map.put(ch,s1[i]);
             }
             i++;
