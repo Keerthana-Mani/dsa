@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Keerthana-Mani/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Keerthana-Mani/dsa/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Keerthana-Mani/dsa/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Keerthana-Mani/dsa/tree/master/0217-contains-duplicate) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Keerthana-Mani/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Keerthana-Mani/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Keerthana-Mani/dsa/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Keerthana-Mani/dsa/tree/master/0643-maximum-average-subarray-i) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Keerthana-Mani/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/Keerthana-Mani/dsa/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Keerthana-Mani/dsa/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Keerthana-Mani/dsa/tree/master/0290-word-pattern) |
