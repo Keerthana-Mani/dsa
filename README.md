@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/Keerthana-Mani/dsa/tree/master/0989-add-to-array-form-of-integer) |
 | [1207-unique-number-of-occurrences](https://github.com/Keerthana-Mani/dsa/tree/master/1207-unique-number-of-occurrences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Keerthana-Mani/dsa/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1480-running-sum-of-1d-array](https://github.com/Keerthana-Mani/dsa/tree/master/1480-running-sum-of-1d-array) |
 ## Math
 |  |
 | ------- |
@@ -135,4 +136,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Keerthana-Mani/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Keerthana-Mani/dsa/tree/master/0713-subarray-product-less-than-k) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Keerthana-Mani/dsa/tree/master/1208-get-equal-substrings-within-budget) |
+| [1480-running-sum-of-1d-array](https://github.com/Keerthana-Mani/dsa/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
