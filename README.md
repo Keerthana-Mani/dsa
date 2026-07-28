@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Keerthana-Mani/dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Keerthana-Mani/dsa/tree/master/0645-set-mismatch) |
 | [0713-subarray-product-less-than-k](https://github.com/Keerthana-Mani/dsa/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/Keerthana-Mani/dsa/tree/master/0724-find-pivot-index) |
 | [0989-add-to-array-form-of-integer](https://github.com/Keerthana-Mani/dsa/tree/master/0989-add-to-array-form-of-integer) |
 | [1207-unique-number-of-occurrences](https://github.com/Keerthana-Mani/dsa/tree/master/1207-unique-number-of-occurrences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Keerthana-Mani/dsa/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Keerthana-Mani/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Keerthana-Mani/dsa/tree/master/0303-range-sum-query-immutable) |
 | [0713-subarray-product-less-than-k](https://github.com/Keerthana-Mani/dsa/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/Keerthana-Mani/dsa/tree/master/0724-find-pivot-index) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Keerthana-Mani/dsa/tree/master/1208-get-equal-substrings-within-budget) |
 | [1480-running-sum-of-1d-array](https://github.com/Keerthana-Mani/dsa/tree/master/1480-running-sum-of-1d-array) |
 ## Design
