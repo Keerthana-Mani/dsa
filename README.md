@@ -162,5 +162,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0577-employee-bonus](https://github.com/Keerthana-Mani/dsa/tree/master/0577-employee-bonus) |
+| [1280-students-and-examinations](https://github.com/Keerthana-Mani/dsa/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Keerthana-Mani/dsa/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
