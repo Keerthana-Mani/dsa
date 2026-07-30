@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Keerthana-Mani/dsa/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Keerthana-Mani/dsa/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Keerthana-Mani/dsa/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Keerthana-Mani/dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Keerthana-Mani/dsa/tree/master/0989-add-to-array-form-of-integer) |
 | [1207-unique-number-of-occurrences](https://github.com/Keerthana-Mani/dsa/tree/master/1207-unique-number-of-occurrences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Keerthana-Mani/dsa/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Keerthana-Mani/dsa/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Keerthana-Mani/dsa/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/Keerthana-Mani/dsa/tree/master/0349-intersection-of-two-arrays) |
+| [0977-squares-of-a-sorted-array](https://github.com/Keerthana-Mani/dsa/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Keerthana-Mani/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Keerthana-Mani/dsa/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Keerthana-Mani/dsa/tree/master/0645-set-mismatch) |
+| [0977-squares-of-a-sorted-array](https://github.com/Keerthana-Mani/dsa/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
