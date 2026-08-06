@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Keerthana-Mani/dsa/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Keerthana-Mani/dsa/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Keerthana-Mani/dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Keerthana-Mani/dsa/tree/master/0035-search-insert-position) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Keerthana-Mani/dsa/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Keerthana-Mani/dsa/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Keerthana-Mani/dsa/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Keerthana-Mani/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -187,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Keerthana-Mani/dsa/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Keerthana-Mani/dsa/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1934-confirmation-rate](https://github.com/Keerthana-Mani/dsa/tree/master/1934-confirmation-rate) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Keerthana-Mani/dsa/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
