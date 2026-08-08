@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/Keerthana-Mani/dsa/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/Keerthana-Mani/dsa/tree/master/0620-not-boring-movies) |
 | [1075-project-employees-i](https://github.com/Keerthana-Mani/dsa/tree/master/1075-project-employees-i) |
+| [1193-monthly-transactions-i](https://github.com/Keerthana-Mani/dsa/tree/master/1193-monthly-transactions-i) |
 | [1251-average-selling-price](https://github.com/Keerthana-Mani/dsa/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/Keerthana-Mani/dsa/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Keerthana-Mani/dsa/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
