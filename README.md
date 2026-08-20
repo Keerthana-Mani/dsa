@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Keerthana-Mani/dsa/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Keerthana-Mani/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Keerthana-Mani/dsa/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Keerthana-Mani/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Keerthana-Mani/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Keerthana-Mani/dsa/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Keerthana-Mani/dsa/tree/master/0345-reverse-vowels-of-a-string) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Keerthana-Mani/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Keerthana-Mani/dsa/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Keerthana-Mani/dsa/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Keerthana-Mani/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Keerthana-Mani/dsa/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Keerthana-Mani/dsa/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Keerthana-Mani/dsa/tree/master/0290-word-pattern) |
