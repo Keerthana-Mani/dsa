@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Keerthana-Mani/dsa/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Keerthana-Mani/dsa/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/Keerthana-Mani/dsa/tree/master/0989-add-to-array-form-of-integer) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Keerthana-Mani/dsa/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Keerthana-Mani/dsa/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Keerthana-Mani/dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Keerthana-Mani/dsa/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Keerthana-Mani/dsa/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Keerthana-Mani/dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/Keerthana-Mani/dsa/tree/master/1768-merge-strings-alternately) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Keerthana-Mani/dsa/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Keerthana-Mani/dsa/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Queue
 |  |
 | ------- |
