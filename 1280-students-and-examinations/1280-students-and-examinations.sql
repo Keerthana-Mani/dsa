@@ -1,4 +1,4 @@
-SELECT
+SELECT 
     s.student_id,
     s.student_name,
     sub.subject_name,
@@ -8,10 +8,10 @@ CROSS JOIN Subjects sub
 LEFT JOIN Examinations e
     ON s.student_id = e.student_id
     AND sub.subject_name = e.subject_name
-GROUP BY
+GROUP BY 
     s.student_id,
     s.student_name,
     sub.subject_name
-ORDER BY
+ORDER BY 
     s.student_id,
     sub.subject_name;
