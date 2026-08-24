@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Keerthana-Mani/dsa/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Keerthana-Mani/dsa/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Keerthana-Mani/dsa/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0896-monotonic-array](https://github.com/Keerthana-Mani/dsa/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Keerthana-Mani/dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Keerthana-Mani/dsa/tree/master/0989-add-to-array-form-of-integer) |
 | [1207-unique-number-of-occurrences](https://github.com/Keerthana-Mani/dsa/tree/master/1207-unique-number-of-occurrences) |
