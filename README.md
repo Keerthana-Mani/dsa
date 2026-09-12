@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Keerthana-Mani/dsa/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/Keerthana-Mani/dsa/tree/master/1991-find-the-middle-index-in-array) |
 | [3731-find-missing-elements](https://github.com/Keerthana-Mani/dsa/tree/master/3731-find-missing-elements) |
+| [3866-first-unique-even-element](https://github.com/Keerthana-Mani/dsa/tree/master/3866-first-unique-even-element) |
 ## Math
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Keerthana-Mani/dsa/tree/master/1207-unique-number-of-occurrences) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Keerthana-Mani/dsa/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3731-find-missing-elements](https://github.com/Keerthana-Mani/dsa/tree/master/3731-find-missing-elements) |
+| [3866-first-unique-even-element](https://github.com/Keerthana-Mani/dsa/tree/master/3866-first-unique-even-element) |
 ## Sorting
 |  |
 | ------- |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Keerthana-Mani/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Keerthana-Mani/dsa/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Keerthana-Mani/dsa/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3866-first-unique-even-element](https://github.com/Keerthana-Mani/dsa/tree/master/3866-first-unique-even-element) |
 ## Divide and Conquer
 |  |
 | ------- |
