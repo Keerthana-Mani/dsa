@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Keerthana-Mani/dsa/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Keerthana-Mani/dsa/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/Keerthana-Mani/dsa/tree/master/1991-find-the-middle-index-in-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Keerthana-Mani/dsa/tree/master/2094-finding-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/Keerthana-Mani/dsa/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/Keerthana-Mani/dsa/tree/master/3866-first-unique-even-element) |
 ## Math
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/Keerthana-Mani/dsa/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1207-unique-number-of-occurrences](https://github.com/Keerthana-Mani/dsa/tree/master/1207-unique-number-of-occurrences) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Keerthana-Mani/dsa/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Keerthana-Mani/dsa/tree/master/2094-finding-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/Keerthana-Mani/dsa/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/Keerthana-Mani/dsa/tree/master/3866-first-unique-even-element) |
 ## Sorting
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Keerthana-Mani/dsa/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Keerthana-Mani/dsa/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/Keerthana-Mani/dsa/tree/master/0977-squares-of-a-sorted-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Keerthana-Mani/dsa/tree/master/2094-finding-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/Keerthana-Mani/dsa/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Keerthana-Mani/dsa/tree/master/0509-fibonacci-number) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Keerthana-Mani/dsa/tree/master/2094-finding-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
@@ -293,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Keerthana-Mani/dsa/tree/master/0202-happy-number) |
+## Enumeration
+|  |
+| ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/Keerthana-Mani/dsa/tree/master/2094-finding-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
