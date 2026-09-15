@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Keerthana-Mani/dsa/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Keerthana-Mani/dsa/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Keerthana-Mani/dsa/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Keerthana-Mani/dsa/tree/master/0202-happy-number) |
