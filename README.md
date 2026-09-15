@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Keerthana-Mani/dsa/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/Keerthana-Mani/dsa/tree/master/1991-find-the-middle-index-in-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Keerthana-Mani/dsa/tree/master/2094-finding-3-digit-even-numbers) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Keerthana-Mani/dsa/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3731-find-missing-elements](https://github.com/Keerthana-Mani/dsa/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/Keerthana-Mani/dsa/tree/master/3866-first-unique-even-element) |
 ## Math
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Keerthana-Mani/dsa/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/Keerthana-Mani/dsa/tree/master/0989-add-to-array-form-of-integer) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Keerthana-Mani/dsa/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Keerthana-Mani/dsa/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Two Pointers
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Keerthana-Mani/dsa/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/Keerthana-Mani/dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Keerthana-Mani/dsa/tree/master/2094-finding-3-digit-even-numbers) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Keerthana-Mani/dsa/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3731-find-missing-elements](https://github.com/Keerthana-Mani/dsa/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Keerthana-Mani/dsa/tree/master/0011-container-with-most-water) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Keerthana-Mani/dsa/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Recursion
 |  |
 | ------- |
@@ -301,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/Keerthana-Mani/dsa/tree/master/2094-finding-3-digit-even-numbers) |
+## Game Theory
+|  |
+| ------- |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Keerthana-Mani/dsa/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 <!---LeetCode Topics End-->
