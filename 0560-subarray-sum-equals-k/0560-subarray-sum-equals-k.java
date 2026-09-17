@@ -1,5 +1,3 @@
-import java.util.HashMap;
-
 class Solution {
     public int subarraySum(int[] nums, int k) {
 
@@ -7,21 +5,20 @@ class Solution {
 
         map.put(0, 1);
 
-        int currentSum = 0;
+        int prefix = 0;
         int count = 0;
 
-        for (int num : nums) {
+        for (int i = 0; i < nums.length; i++) {
 
-            currentSum += num;
+            prefix += nums[i];
 
-            int required = currentSum - k;
+            int required = prefix - k;
 
             if (map.containsKey(required)) {
                 count += map.get(required);
             }
 
-            map.put(currentSum,
-                    map.getOrDefault(currentSum, 0) + 1);
+            map.put(prefix, map.getOrDefault(prefix, 0) + 1);
         }
 
         return count;
