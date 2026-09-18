@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Keerthana-Mani/dsa/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Keerthana-Mani/dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Keerthana-Mani/dsa/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Keerthana-Mani/dsa/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Keerthana-Mani/dsa/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Keerthana-Mani/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Keerthana-Mani/dsa/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Keerthana-Mani/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Keerthana-Mani/dsa/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Keerthana-Mani/dsa/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Keerthana-Mani/dsa/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Keerthana-Mani/dsa/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Keerthana-Mani/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Keerthana-Mani/dsa/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Keerthana-Mani/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Keerthana-Mani/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Keerthana-Mani/dsa/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Keerthana-Mani/dsa/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Keerthana-Mani/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Keerthana-Mani/dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/Keerthana-Mani/dsa/tree/master/0713-subarray-product-less-than-k) |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Keerthana-Mani/dsa/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Keerthana-Mani/dsa/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Keerthana-Mani/dsa/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Keerthana-Mani/dsa/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Keerthana-Mani/dsa/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Keerthana-Mani/dsa/tree/master/0645-set-mismatch) |
 ## String
@@ -310,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Keerthana-Mani/dsa/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Keerthana-Mani/dsa/tree/master/0287-find-the-duplicate-number) |
 ## Enumeration
 |  |
 | ------- |
@@ -318,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Keerthana-Mani/dsa/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Keerthana-Mani/dsa/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
