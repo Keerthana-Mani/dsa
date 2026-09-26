@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/Keerthana-Mani/dsa/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Keerthana-Mani/dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Keerthana-Mani/dsa/tree/master/0989-add-to-array-form-of-integer) |
+| [1023-camelcase-matching](https://github.com/Keerthana-Mani/dsa/tree/master/1023-camelcase-matching) |
 | [1207-unique-number-of-occurrences](https://github.com/Keerthana-Mani/dsa/tree/master/1207-unique-number-of-occurrences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Keerthana-Mani/dsa/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/Keerthana-Mani/dsa/tree/master/1480-running-sum-of-1d-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Keerthana-Mani/dsa/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Keerthana-Mani/dsa/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Keerthana-Mani/dsa/tree/master/0977-squares-of-a-sorted-array) |
+| [1023-camelcase-matching](https://github.com/Keerthana-Mani/dsa/tree/master/1023-camelcase-matching) |
 | [1768-merge-strings-alternately](https://github.com/Keerthana-Mani/dsa/tree/master/1768-merge-strings-alternately) |
 ## Hash Table
 |  |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/Keerthana-Mani/dsa/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Keerthana-Mani/dsa/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Keerthana-Mani/dsa/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1023-camelcase-matching](https://github.com/Keerthana-Mani/dsa/tree/master/1023-camelcase-matching) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Keerthana-Mani/dsa/tree/master/1208-get-equal-substrings-within-budget) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Keerthana-Mani/dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/Keerthana-Mani/dsa/tree/master/1768-merge-strings-alternately) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Keerthana-Mani/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1023-camelcase-matching](https://github.com/Keerthana-Mani/dsa/tree/master/1023-camelcase-matching) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -338,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Keerthana-Mani/dsa/tree/master/0287-find-the-duplicate-number) |
+## Trie
+|  |
+| ------- |
+| [1023-camelcase-matching](https://github.com/Keerthana-Mani/dsa/tree/master/1023-camelcase-matching) |
 <!---LeetCode Topics End-->
