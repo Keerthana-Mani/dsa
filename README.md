@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Keerthana-Mani/dsa/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/Keerthana-Mani/dsa/tree/master/1991-find-the-middle-index-in-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Keerthana-Mani/dsa/tree/master/2094-finding-3-digit-even-numbers) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Keerthana-Mani/dsa/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Keerthana-Mani/dsa/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3731-find-missing-elements](https://github.com/Keerthana-Mani/dsa/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/Keerthana-Mani/dsa/tree/master/3866-first-unique-even-element) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Keerthana-Mani/dsa/tree/master/1207-unique-number-of-occurrences) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Keerthana-Mani/dsa/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Keerthana-Mani/dsa/tree/master/2094-finding-3-digit-even-numbers) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Keerthana-Mani/dsa/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3731-find-missing-elements](https://github.com/Keerthana-Mani/dsa/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/Keerthana-Mani/dsa/tree/master/3866-first-unique-even-element) |
 ## Sorting
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Keerthana-Mani/dsa/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/Keerthana-Mani/dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Keerthana-Mani/dsa/tree/master/2094-finding-3-digit-even-numbers) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Keerthana-Mani/dsa/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Keerthana-Mani/dsa/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3731-find-missing-elements](https://github.com/Keerthana-Mani/dsa/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -348,4 +351,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1023-camelcase-matching](https://github.com/Keerthana-Mani/dsa/tree/master/1023-camelcase-matching) |
+## Simulation
+|  |
+| ------- |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Keerthana-Mani/dsa/tree/master/2154-keep-multiplying-found-values-by-two) |
 <!---LeetCode Topics End-->
