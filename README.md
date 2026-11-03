@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/Keerthana-Mani/dsa/tree/master/1991-find-the-middle-index-in-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Keerthana-Mani/dsa/tree/master/2094-finding-3-digit-even-numbers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Keerthana-Mani/dsa/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2210-count-hills-and-valleys-in-an-array](https://github.com/Keerthana-Mani/dsa/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Keerthana-Mani/dsa/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3731-find-missing-elements](https://github.com/Keerthana-Mani/dsa/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/Keerthana-Mani/dsa/tree/master/3866-first-unique-even-element) |
